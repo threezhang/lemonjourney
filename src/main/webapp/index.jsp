@@ -15,7 +15,7 @@
     <link href="resources/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
-    <link href="starter-template.css" rel="stylesheet">
+    <link href="resources/css/starter-template.css" rel="stylesheet">
 
     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
     <!--[if lt IE 9]><script src="resources/assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
@@ -34,12 +34,12 @@
       <div class="container">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-            <span class="sr-only">柠檬</span>
+            <span class="sr-only">Lemon Journey</span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#">柠檬 Lemon Journey </a>
+          <a class="navbar-brand" href="#">Lemon Journey</a>
         </div>
         <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
@@ -55,7 +55,7 @@
 
       <div class="starter-template">
         <h1>Lemon Journey</h1>
-        <p class="lead">敬请期待</p>
+        <p class="lead">Waiting...</p>
       </div>
 
     </div><!-- /.container -->
